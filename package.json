@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jesperwernborg/Schoolapi/issues"
   },
-  "homepage": "https://github.com/Jesperwernborg/Schoolapi#readme"
+  "homepage": "https://github.com/Jesperwernborg/Schoolapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
