@@ -1,0 +1,9 @@
+.avatar-size { width: 150px; height: 150px; }
+
+
+
+
+
+@media (min-width: 624px) {
+    #team .image-container {  flex-direction: row !important;}
+}
